@@ -1,10 +1,9 @@
 {
     "name": "cinetpay-nodejs",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Make payment with CinetPay",
     "author": "Lamine AZINAKOU",
     "license": "MIT",
-    "repository": "azinakou/cinetpay",
     "main": "index.js",
     "keywords": [
         "cinetpay",
@@ -16,5 +15,13 @@
     "dependencies": {
         "axios": "^0.19.2",
         "query-string": "^6.10.1"
+    },
+    "homepage": "https://github.com/cinetpay/cinetpay-nodejs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cinetpay/cinetpay-nodejs"
+    },
+    "bugs": {
+        "url": "https://github.com/cinetpay/cinetpay-nodejs/issues"
     }
 }
